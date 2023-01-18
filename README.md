@@ -1,6 +1,6 @@
 # Modelo_Site
 
-Projeto de site desenvilido com o intuito  de treinar position, grids, espaçamentos, cores e outros
+Projeto de site desenvilido com o intuito  de treinar position, grids, espaçamentos, cores e outros, nele, foi usado HTML e CSS
 
 Para acesa-lo e ver a página comple do site, basta acessar o link abaixo:
 https://wendel25.github.io/Modelo_Site/
